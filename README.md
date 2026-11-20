@@ -54,6 +54,8 @@ Full steps: [connect EasyClippers to Claude and ChatGPT](https://easyclippers.co
 - [The best AI clipping tools for streamers in 2026](https://easyclippers.com/guides/best-ai-clipping-tools)
 - [The best clipping tools for Kick](https://easyclippers.com/guides/best-kick-clipping-tools)
 - [The best YouTube live clipping tools](https://easyclippers.com/guides/best-youtube-live-clipping-tools)
+- [How to turn YouTube live streams into Shorts](https://easyclippers.com/guides/youtube-live-to-shorts)
+- [Live clipping: AI that makes shorts while you are still live](https://easyclippers.com/guides/live-clipping-ai)
 - [How to clip your GTA 6 streams into Shorts](https://easyclippers.com/guides/gta-6-stream-clips)
 - [Clip any live stream from an RTMP encoder](https://easyclippers.com/guides/clip-any-live-stream)
 - Free tools, no account needed to start: [Twitch clip maker](https://easyclippers.com/tools/twitch-clip-maker),
